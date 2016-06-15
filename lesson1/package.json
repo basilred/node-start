@@ -1,0 +1,19 @@
+{
+  "name": "hashtagable",
+  "version": "1.0.0",
+  "description": "Make twitter-style hashtag from common string of text",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "hashtag",
+    "tag"
+  ],
+  "author": "Vasily Krasnov <mykrasnov@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
